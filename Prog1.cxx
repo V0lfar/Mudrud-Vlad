@@ -8,3 +8,4 @@ cin>>b;
 a=a+b;
 cout<<endl<<"Otvet: "<<a;
 }
+return 0;
